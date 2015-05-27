@@ -1,0 +1,7 @@
+def honap(x):
+    honap={"Január","Február","Március","Április","Május","Június","Július","Augusztus","Szeptember","Október","November","December"}
+    if x in honap:
+        return True
+    else:
+        return False
+      
